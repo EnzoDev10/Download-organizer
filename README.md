@@ -1,10 +1,10 @@
 # Reason to exist
-Hi! the idea of this project came to me after seeing how my downloads folder was structured, and by structured i mean being a complete mess.
+Hi! 👋 the idea of this project came to me after seeing how my downloads folder was structured, and by structured i mean being a complete mess.
 
 This is the first time i make a project of this kind so there could be a lot of errors (if you come across one or have a contributions please let me know).
 
 # How to install
-This is the easiest way i could find to share the script but if somebody knows a better way please let me know.
+This is the easiest way i could find to share the script but if somebody knows a better way please let me know 🙏.
 
 1) Download the zip from the code button.
 

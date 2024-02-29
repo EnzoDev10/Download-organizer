@@ -1,5 +1,4 @@
 import os, shutil
-import re
 from get_dw_folder import get_download_folder
 
 
