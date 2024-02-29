@@ -8,18 +8,20 @@ This is the easiest way i could find to share the script but if somebody knows a
 
 1) Download the zip from the code button.
 
-2) Go inside the dist folder
+2) Go inside the dist folder.
 
-3) Go inside the sort_downloads folder
+3) Go inside the sort_downloads folder and copy the content.
 
-4) Copy the content and paste it in the startup folder of your system
+4) Press WINDOWS + R and type shell:startup to open the startup folder.
 
-5) Click the internal folder and
+5) Paste it inside said folder.
+
+6) Go inside the folder called internal and:
     + click properties
     + check hidden
 
 
 The last step exist so the internal folder doesn't open after the script ends his execution.
 
-and that's all! Hope the project is useful, maybe in the future i'll improve it or add some more functionalities like the option to select a path or something like that.
+and that's all! Hope the project is useful, maybe in the future i'll improve it or add some more functionalities like the posiibility to select a path or something like that.
 
