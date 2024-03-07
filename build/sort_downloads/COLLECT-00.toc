@@ -1,5 +1,6 @@
 ([('sort_downloads.exe',
-   'C:\\Users\\Administrator\\Desktop\\coding\\repos\\Download-organizer\\build\\sort_downloads\\sort_downloads.exe',
+   'C:\\Users\\Administrator\\Desktop\\coding\\repos\\Python '
+   'Projects\\Download-organizer\\build\\sort_downloads\\sort_downloads.exe',
    'EXECUTABLE'),
   ('python312.dll', 'C:\\Python312\\python312.dll', 'BINARY'),
   ('_decimal.pyd', 'C:\\Python312\\DLLs\\_decimal.pyd', 'EXTENSION'),
@@ -16,5 +17,6 @@
   ('libcrypto-3.dll', 'C:\\Python312\\DLLs\\libcrypto-3.dll', 'BINARY'),
   ('libffi-8.dll', 'C:\\Python312\\DLLs\\libffi-8.dll', 'BINARY'),
   ('base_library.zip',
-   'C:\\Users\\Administrator\\Desktop\\coding\\repos\\Download-organizer\\build\\sort_downloads\\base_library.zip',
+   'C:\\Users\\Administrator\\Desktop\\coding\\repos\\Python '
+   'Projects\\Download-organizer\\build\\sort_downloads\\base_library.zip',
    'DATA')],)

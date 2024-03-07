@@ -2,7 +2,7 @@
 
 
 a = Analysis(
-    ['sort_downloads.py', 'get_dw_folder.py'],
+    ['sort_downloads.pyw', 'get_dw_folder.py'],
     pathex=[],
     binaries=[],
     datas=[],
@@ -25,7 +25,7 @@ exe = EXE(
     bootloader_ignore_signals=False,
     strip=False,
     upx=True,
-    console=True,
+    console=False,
     disable_windowed_traceback=False,
     argv_emulation=False,
     target_arch=None,

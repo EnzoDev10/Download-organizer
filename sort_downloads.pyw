@@ -1,6 +1,7 @@
 import os, shutil
 from get_dw_folder import get_download_folder
 
+import re
 
 while True:
     try:
@@ -27,16 +28,27 @@ for file in files:
             # 5 Assign the path of the file to a variable
             file_path = path + "\\" + file
 
+            # This variable contains substrings that could be find on files downloaded  from this site.
+            # In my case i want to have them separated from files with the same extension
+            # Change them to something you use or delete them 
+            pattern = "scrnli|unsplash|z-library"
+            
+            #6 Check if the file is from one of the specified sources, 
+            # if it exists change extension to the string found.
+            special_name = re.search(pattern, name.lower())
+
+            if special_name:
+                extension = special_name.group(0)
 
 
-            # 6 Create a path to a possible folder of that file
+            # 7 Create a path to a possible folder of that file
             folder = path + "\\" + extension.upper()
 
-            # 7 Check if the folder exists and:
+            # 8 Check if the folder exists and:
             if os.path.exists(folder):
-                # 8 If the folder exist, move the file inside
+                # 9 If the folder exist, move the file inside
                 shutil.move(file_path, folder)
-            # 8 else, create a new folder and move the file into it.
+            # 10 else, create a new folder and move the file into it.
             else:
                 os.mkdir(folder)
                 shutil.move(file_path, folder)

@@ -1,9 +1,14 @@
-(['C:\\Users\\Administrator\\Desktop\\coding\\repos\\Download-organizer\\sort_downloads.py',
-  'C:\\Users\\Administrator\\Desktop\\coding\\repos\\Download-organizer\\get_dw_folder.py'],
- ['C:\\Users\\Administrator\\Desktop\\coding\\repos\\Download-organizer',
-  'C:\\Users\\Administrator\\Desktop\\coding\\repos\\Download-organizer'],
+(['C:\\Users\\Administrator\\Desktop\\coding\\repos\\Python '
+  'Projects\\Download-organizer\\sort_downloads.pyw',
+  'C:\\Users\\Administrator\\Desktop\\coding\\repos\\Python '
+  'Projects\\Download-organizer\\get_dw_folder.py'],
+ ['C:\\Users\\Administrator\\Desktop\\coding\\repos\\Python '
+  'Projects\\Download-organizer',
+  'C:\\Users\\Administrator\\Desktop\\coding\\repos\\Python '
+  'Projects\\Download-organizer'],
  [],
- ['C:\\Python312\\Lib\\site-packages\\_pyinstaller_hooks_contrib\\hooks\\stdhooks',
+ ['C:\\Python312\\Lib\\site-packages\\numpy\\_pyinstaller',
+  'C:\\Python312\\Lib\\site-packages\\_pyinstaller_hooks_contrib\\hooks\\stdhooks',
   'C:\\Python312\\Lib\\site-packages\\_pyinstaller_hooks_contrib\\hooks'],
  {},
  [],
@@ -18,10 +23,12 @@
    'C:\\Python312\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_inspect.py',
    'PYSOURCE'),
   ('sort_downloads',
-   'C:\\Users\\Administrator\\Desktop\\coding\\repos\\Download-organizer\\sort_downloads.py',
+   'C:\\Users\\Administrator\\Desktop\\coding\\repos\\Python '
+   'Projects\\Download-organizer\\sort_downloads.pyw',
    'PYSOURCE'),
   ('get_dw_folder',
-   'C:\\Users\\Administrator\\Desktop\\coding\\repos\\Download-organizer\\get_dw_folder.py',
+   'C:\\Users\\Administrator\\Desktop\\coding\\repos\\Python '
+   'Projects\\Download-organizer\\get_dw_folder.py',
    'PYSOURCE')],
  [('inspect', 'C:\\Python312\\Lib\\inspect.py', 'PYMODULE'),
   ('importlib', 'C:\\Python312\\Lib\\importlib\\__init__.py', 'PYMODULE'),
@@ -175,11 +182,12 @@
   ('ctypes.wintypes', 'C:\\Python312\\Lib\\ctypes\\wintypes.py', 'PYMODULE'),
   ('ctypes', 'C:\\Python312\\Lib\\ctypes\\__init__.py', 'PYMODULE'),
   ('ctypes._endian', 'C:\\Python312\\Lib\\ctypes\\_endian.py', 'PYMODULE'),
+  ('_py_abc', 'C:\\Python312\\Lib\\_py_abc.py', 'PYMODULE'),
   ('stringprep', 'C:\\Python312\\Lib\\stringprep.py', 'PYMODULE'),
   ('tracemalloc', 'C:\\Python312\\Lib\\tracemalloc.py', 'PYMODULE'),
-  ('_py_abc', 'C:\\Python312\\Lib\\_py_abc.py', 'PYMODULE'),
   ('get_dw_folder',
-   'C:\\Users\\Administrator\\Desktop\\coding\\repos\\Download-organizer\\get_dw_folder.py',
+   'C:\\Users\\Administrator\\Desktop\\coding\\repos\\Python '
+   'Projects\\Download-organizer\\get_dw_folder.py',
    'PYMODULE'),
   ('shutil', 'C:\\Python312\\Lib\\shutil.py', 'PYMODULE'),
   ('tarfile', 'C:\\Python312\\Lib\\tarfile.py', 'PYMODULE'),
@@ -201,5 +209,6 @@
  [],
  [],
  [('base_library.zip',
-   'C:\\Users\\Administrator\\Desktop\\coding\\repos\\Download-organizer\\build\\sort_downloads\\base_library.zip',
+   'C:\\Users\\Administrator\\Desktop\\coding\\repos\\Python '
+   'Projects\\Download-organizer\\build\\sort_downloads\\base_library.zip',
    'DATA')])

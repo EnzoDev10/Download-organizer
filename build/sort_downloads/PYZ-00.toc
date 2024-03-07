@@ -1,4 +1,5 @@
-('C:\\Users\\Administrator\\Desktop\\coding\\repos\\Download-organizer\\build\\sort_downloads\\PYZ-00.pyz',
+('C:\\Users\\Administrator\\Desktop\\coding\\repos\\Python '
+ 'Projects\\Download-organizer\\build\\sort_downloads\\PYZ-00.pyz',
  [('_compat_pickle', 'C:\\Python312\\Lib\\_compat_pickle.py', 'PYMODULE'),
   ('_compression', 'C:\\Python312\\Lib\\_compression.py', 'PYMODULE'),
   ('_py_abc', 'C:\\Python312\\Lib\\_py_abc.py', 'PYMODULE'),
@@ -56,7 +57,8 @@
   ('fnmatch', 'C:\\Python312\\Lib\\fnmatch.py', 'PYMODULE'),
   ('fractions', 'C:\\Python312\\Lib\\fractions.py', 'PYMODULE'),
   ('get_dw_folder',
-   'C:\\Users\\Administrator\\Desktop\\coding\\repos\\Download-organizer\\get_dw_folder.py',
+   'C:\\Users\\Administrator\\Desktop\\coding\\repos\\Python '
+   'Projects\\Download-organizer\\get_dw_folder.py',
    'PYMODULE'),
   ('getopt', 'C:\\Python312\\Lib\\getopt.py', 'PYMODULE'),
   ('gettext', 'C:\\Python312\\Lib\\gettext.py', 'PYMODULE'),
